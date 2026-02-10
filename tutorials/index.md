@@ -10,3 +10,6 @@ But for Plugin related APIs, check out this section 👉 [Plugin Api Guide](../d
 :::tip
 Stay tuned as we regularly update this section with new tutorials, guides, and tips!
 :::
+## Featured Tutorial
+
+- [Pure Pulse Activation Pack (English + Arabic Slang)](./pure-pulse-activation-pack.md)
