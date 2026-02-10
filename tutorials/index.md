@@ -10,3 +10,7 @@ But for Plugin related APIs, check out this section 👉 [Plugin Api Guide](../d
 :::tip
 Stay tuned as we regularly update this section with new tutorials, guides, and tips!
 :::
+
+## Tutorials
+
+- [Smart Pulse: build a pulse-style plugin](./smart-pulse.md)
